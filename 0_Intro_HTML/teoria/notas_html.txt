@@ -13,3 +13,4 @@ h3 nombres de articulos
 
 etiquetas para textos-->
     Etiqueta <a> </a> para enlaces, necesia el atributo href
+La etiqueta a nos sirve para ir a sitios externos u otros archivos
