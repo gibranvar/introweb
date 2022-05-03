@@ -1,0 +1,15 @@
+Para iniciar, necesitamos crear archivo terminacion .html
+Poner base de etiquetas  --> ! o html:5
+Existen dos tipos de etiquetas:
+    las que tienen apertura y cierre
+    y las que solo tienen apertura
+Un archivo html se puede visualizar en un explorador
+dentro de las etiquetas head añandimos etoqietas de información o configuración de nuestro sitio web
+Dentro de la etiqueta body van todos los componentes del sitio web 
+Etiquetas de encabezado Existen de la h1 a h6
+H1 se usa para el texto más importante del sitio
+h2 subtitulos
+h3 nombres de articulos
+
+etiquetas para textos-->
+    Etiqueta <a> </a> para enlaces, necesia el atributo href
