@@ -1,0 +1,93 @@
+html, body {
+    /* margin: 50px; */
+}
+
+.logo {
+    width: 300px;
+    height: 50px;
+    margin-left: 15%;
+}
+
+.navegador-principal {
+    background-color: #D00C88;
+    padding: 20px;
+}
+
+.opciones-menu {
+    text-decoration: none;
+    color: white;
+    width: 100%;  
+    margin-left: 14%;
+}
+
+#articulos {
+    margin-left: 15%;
+    margin-right: 10%;
+    text-align: justify;
+    
+}
+.viaje-a-londres {
+    color: #01b8e3;
+}
+
+.foto-viaje-a-londres {
+    width: 300px;   
+    height: 200px;
+}  
+
+.leer-mas-1 {
+    padding: 10px;
+    width: 25%;
+    background-color: #01b8e3;
+    color: white;
+}
+.puente-de-la-torre { 
+    color: #01b8e3;
+}
+
+.foto-puente-de-la-torre {
+    width: 300px;  
+    height: 200px;
+}
+
+.leer-mas-2 {
+    padding: 10px;
+    width: 25%;
+    background-color: #01b8e3;
+    color: white;
+}
+
+.metro-de-londres {
+    color: #01b8e3;
+}
+
+.foto-metro-londres {
+    width: 300px;
+    height: 200px;
+}
+.leer-mas-3 {
+    padding: 10px;
+    width: 25%;
+    background-color: #01b8e3;
+    color: white;
+}
+
+#entradas { 
+    color: #01b8e3;
+    position;right: 75px;
+}
+
+#footer {
+    background-color: #d00c88;
+    color: white;
+}
+
+.menu-navegacion {
+    margin-left: 65%;
+}
+.menu-2 { 
+    text-decoration: none;
+    color: white;
+    margin-left: 10%;
+
+}
